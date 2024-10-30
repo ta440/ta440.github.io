@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Timothy Andrews"
 title_separator          : "-"
-name                     : &name "Timothy Andrews"
-description              : &description "Postdoctoral Researcher"
+name                     : "Timothy Andrews"
+description              : "Postdoctoral Researcher"
 url                      : https://ta440.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "TimAndrews_photo_25_10_24.jpg"
   name             : "Timothy C. Andrews"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Ann Arbor (Michigan, USA)"
   employer         : "University of Michigan"
   uri              : # URL
