@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "TimAndrews_photo_25_10_24.png"
+  avatar           : "TimAndrews_photo_25_10_24.jpg"
   name             : "Timothy C. Andrews"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
