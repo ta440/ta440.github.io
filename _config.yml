@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Timothy C. Andrews"
+title                    : "Timothy Andrews"
 title_separator          : "-"
 name                     : &name "Timothy Andrews"
 description              : &description "Postdoctoral Researcher"
@@ -21,11 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Timothy Andrews"
+  avatar           : "TimAndrews_photo_25_10_24.jpg"
+  name             : "Timothy C. Andrews"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Work: Ann Arbor (Michigan, USA) /n Home: New Plymouth (New Zealand)"
+  location         : "Work: Ann Arbor (Michigan, USA)"
+  location         : "Home: New Plymouth (New Zealand)"
   employer         : "University of Michigan"
   uri              : # URL
   email            : "timand@umich.edu" 
