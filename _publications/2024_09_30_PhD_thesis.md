@@ -1,7 +1,7 @@
 ---
 title: "PhD Thesis"
 collection: publications
-category: manuscripts
+category: PhD Thesis
 permalink: /publication/2024_09_30_PhD_thesis
 excerpt: 'PhD Thesis from the University of Exeter'
 date: 2024-09-30
