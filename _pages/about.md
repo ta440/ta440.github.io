@@ -22,8 +22,10 @@ I grew up and studied my undergraduate in New Zealand, completed a PhD in the Un
   - Phase-averaged timestepping and improving its accuracy
   - Parallel-in-time methods
  
-## Collaborations:
-
+## Collaborations/Projects:
+- Gusto: Contributing code to the Gusto repository (https://www.firedrakeproject.org/gusto), a compatible finite element code library for solving geophysical fluid PDEs, utilising the Firedrake python library.
+- Tom Bendall (UK Met Office)
+- Alex Pletzer (NIWA)
 
 
 
