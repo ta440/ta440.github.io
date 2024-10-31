@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## My name is Timothy (Charles) Andrews, a postdoctoral researcher at the University of Michigan.
+## My name is Timothy (Charles) Andrews, a postdoctoral research fellow at the University of Michigan.
 I grew up and studied my undergraduate in New Zealand, completed a PhD in the United Kingdom, and am currently researching in the United States. I sometimes get confused about what timezone I am in!
 
 ## Education:
