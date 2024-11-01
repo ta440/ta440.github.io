@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Kia Ora!"
 author_profile: true
 redirect_from: 
   - /about/
