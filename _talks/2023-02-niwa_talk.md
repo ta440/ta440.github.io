@@ -1,6 +1,6 @@
 ---
 title: "Quantifying the accuracy of large timesteps"
-collection: presentations
+collection: talks
 type: "Presentation"
 permalink: /presentations/2023-02-niwa_talk
 venue: "NIWA"
