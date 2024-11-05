@@ -10,6 +10,8 @@ redirect_from:
 ## My name is Timothy (Charles) Andrews, a postdoctoral research fellow at the University of Michigan.
 I grew up and studied my undergraduate in New Zealand, completed a PhD in the United Kingdom, and am currently researching in the United States. I sometimes get confused about what timezone I am in!
 
+My current research group is the [Atmospheric and Dynamics Modelling Group](https://admg.engin.umich.edu/) at the University of Michigan.
+
 ## Education:
 - Doctor of Philosophy (PhD) in Mathematics (Geophysical and Astrophysical Fluid Dynamics) --- University of Exeter (2020--2024)
 - Bachelor of Engineering with First Class Honours, specialising in Engineering Science --- University of Auckland (2016--2019)
