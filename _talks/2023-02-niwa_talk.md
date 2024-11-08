@@ -2,7 +2,8 @@
 title: "Quantifying the accuracy of large timesteps"
 collection: talks
 type: "Presentation"
-permalink: /presentations/2023-02-niwa_talk
+permalink: /talks/2023-02-niwa_talk
+excerpt: "Visiting seminar at NIWA Wellington (NZ) office"
 venue: "NIWA"
 date: 2012-03-01
 location: "Wellington, New Zealand"
