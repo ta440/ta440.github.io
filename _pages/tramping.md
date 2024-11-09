@@ -11,7 +11,7 @@ author_profile: true
 
 Here is a collection of tramping pictures from locations across the world.
 
-![Mt Taranaki: My Maunga (mountain). From my house, it's only a fifteen minute drive then about a one hour walk (up a lot of stairs!) to get this amazing view.](/tramping/mt_taranaki_snowy.jpg)
+![Mt Taranaki: My Maunga (mountain). From my house, it's only a fifteen minute drive then about a one hour walk (up a lot of stairs!) to get this amazing view.](/_tramping/mt_taranaki_snowy.jpg)
 Mt Taranaki: My Maunga (mountain). 
 
 
