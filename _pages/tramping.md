@@ -43,9 +43,25 @@ Llangrannog, Wales.
 <br/>
 <br/>
 
+<img src="/images/mt_snowdon.jpg" width="600"/>
+<br/>
+Mt Snowdon, Wales.
+
+<br/>
+<br/>
+<br/>
+
 <img src="/images/scarfell_pike.jpg" width="600"/>
 <br/>
 Scafell Pike, the tallest peak in England.
+
+<br/>
+<br/>
+<br/>
+
+<img src="/images/santa_cruz.jpg" width="600"/>
+<br/>
+Santa Cruz, California, US. I experienced two months of incredible weather and sunsets whilst I was there (Oct, Nov 2023).
 
 <br/>
 <br/>
