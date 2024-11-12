@@ -13,7 +13,7 @@ I grew up and studied my undergraduate in New Zealand, completed a PhD in the Un
 My current research group is the [Atmospheric and Dynamics Modelling Group](https://admg.engin.umich.edu/) at the University of Michigan, headed by Professor Christiane Jablonowski.
 I am also a code developer for Gusto ([Github](https://github.com/firedrakeproject/gusto), [website](https://www.firedrakeproject.org/gusto/)) a toolbox for solving geophysical fluid equations using compatible finite elements.
 
-P.S.: [Kia Ora](https://en.wikipedia.org/wiki/Kia_ora) is a M\-aori greeting we use in New Zealand.
+P.S. [Kia Ora](https://en.wikipedia.org/wiki/Kia_ora) is a M\-aori greeting we use in New Zealand.
 
 ## Research Focuses:
 - Numerical modelling of geophysical fluid equations, specifically:
