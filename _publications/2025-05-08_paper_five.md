@@ -1,4 +1,3 @@
-
 ---
 title: "Stability analyses of divergence and vorticity damping on gnomonic cubed-sphere grids"
 collection: publications
