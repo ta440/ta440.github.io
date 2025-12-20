@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## My name is Timothy (Charles) Andrews, a postdoctoral research fellow at the University of Michigan.
-I grew up in New Plymouth (New Zealand), studied my undergraduate degree in Auckland (New Zealand), completed a PhD in Mathematics at the University of Exeter (United Kingdom), and am currently living and researching in Ann Arbor (Michigan, United States). I sometimes get confused about what timezone/season I am in!
+I was born in Croydon (outer London, United Kingdom), grew up in New Plymouth (New Zealand), studied my undergraduate degree in Auckland (New Zealand), completed a PhD in Mathematics at the University of Exeter (United Kingdom), and am currently living and researching in Ann Arbor (Michigan, United States). I sometimes get confused about what timezone/season I am in!
 
 My current research group is the [Atmospheric and Dynamics Modelling Group](https://admg.engin.umich.edu/) at the University of Michigan, headed by Professor Christiane Jablonowski.
 I am also a code developer for Gusto ([Github](https://github.com/firedrakeproject/gusto), [website](https://www.firedrakeproject.org/gusto/)) a toolbox for solving geophysical fluid equations using compatible finite elements.
