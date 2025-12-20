@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## My name is Timothy (Charles) Andrews, a postdoctoral research fellow at the University of Michigan.
-I grew up and studied my undergraduate in New Zealand, completed a PhD in the United Kingdom, and am currently researching in the United States. I sometimes get confused about what timezone I am in!
+I grew up in New Plymouth (New Zealand), studied my undergraduate degree in Auckland (New Zealand), completed a PhD in Mathematics at the University of Exeter (United Kingdom), and am currently living and researching in Ann Arbor (Michigan, United States). I sometimes get confused about what timezone/season I am in!
 
 My current research group is the [Atmospheric and Dynamics Modelling Group](https://admg.engin.umich.edu/) at the University of Michigan, headed by Professor Christiane Jablonowski.
 I am also a code developer for Gusto ([Github](https://github.com/firedrakeproject/gusto), [website](https://www.firedrakeproject.org/gusto/)) a toolbox for solving geophysical fluid equations using compatible finite elements.
@@ -17,13 +17,12 @@ P.S. [Kia Ora](https://en.wikipedia.org/wiki/Kia_ora) is a Maori greeting we use
 
 ## Research Focuses:
 - Numerical modelling of geophysical fluid equations, specifically:
-  - Pseudospectral methods
-  - Compatible finite element methods
+  - Pseudospectral and compatible finite element methods
   - Quantification of timestepping error
-  - Phase-averaged timestepping and improving its accuracy
+  - The phase-averaged timestepping method
   - Parallel-in-time methods
-- Development and testing of dynamical cores for Global Circulation Models (GCMs)
-- Coupling of models, NOAA’s Unified Forecast System
+- Evaluation of dynamical cores for Global Circulation Models (GCMs), primarily through idealised test cases
+- Investigation and quantification of numerical diffusion in dynamical cores
 
 ## Education:
 - Doctor of Philosophy (PhD) in Mathematics (Geophysical and Astrophysical Fluid Dynamics) --- University of Exeter (2020--2024)
