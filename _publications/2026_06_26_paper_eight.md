@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2026_06_26_paper_eight
 excerpt: 'This paper investigates the use of a perfectly matched layer to damp waves near the model top for geophysical flow applications. Comparisons are made to standard sponge layers.'
-venue: 'false'
+venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2606.28303'
 ---
 
