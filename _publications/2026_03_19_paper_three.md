@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/2026-03-19_paper_three
 excerpt: 'This paper describes and tests a conservative transport scheme for scalar tracers using compatible finite elements.'
 date: 2026-03-19
-venue: 'false'
+venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2603.19075'
 ---
 
