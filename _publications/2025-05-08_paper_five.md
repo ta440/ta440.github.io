@@ -5,7 +5,7 @@ category: articles
 permalink: /publication/2026-07-01_paper_five
 excerpt: 'This paper derives linear stability limits to divergence and vorticity damping on gnomonic cubed-sphere grids. The linear theory is then applied to baroclinic wave simulations using the finite-volume cubed (FV3) dynamical core.'
 date: 2026-07-01
-venue: 'false'
+venue: 'Monthly Weather Review'
 paperurl: 'https://journals.ametsoc.org/view/journals/mwre/154/7/MWR-D-25-0192.1.xml'
 ---
 
