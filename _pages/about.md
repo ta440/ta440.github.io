@@ -20,9 +20,9 @@ P.S. [Kia Ora](https://en.wikipedia.org/wiki/Kia_ora) is a Maori greeting we use
   - Pseudospectral and compatible finite element methods
   - Quantification of timestepping error
   - The phase-averaged timestepping method
-  - Parallel-in-time methods
 - Evaluation of dynamical cores for Global Circulation Models (GCMs), primarily through idealised test cases
-- Investigation and quantification of numerical diffusion in dynamical cores
+- Stability and consequences of numerical diffusion in dynamical cores
+- Tracer transport schemes
 
 ## Education:
 - Doctor of Philosophy (PhD) in Mathematics (Geophysical and Astrophysical Fluid Dynamics) --- University of Exeter (2020--2024)
